@@ -1,0 +1,9 @@
+namespace ScannerService
+{
+    runtimeclass MainService
+    {
+        MainService();
+
+        Int32 GetScannerCount();
+    };
+}
