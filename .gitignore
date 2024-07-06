@@ -5,10 +5,8 @@
 /.vs
 /packages
 /ScannerService/Debug
-/ScannerService/Generated Files
-/ScannerServiceProjection/bin/
-/ScannerServiceProjection/obj
-/WinScanner/bin/x86/Debug
-/WinScanner/obj
 /x64/Debug/Win_Scanner
 /Debug/ScannerService
+**/obj
+**/bin
+**/Generated Files
